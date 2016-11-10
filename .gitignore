@@ -4,3 +4,10 @@
 *.xml
 *.log
 *.d
+examples/c/CAT/allocation_app
+examples/c/CAT/association_app
+examples/c/CAT/reset_app
+examples/c/CMT_MBM/monitor_app
+examples/c/PSEUDO_LOCK/pseudo_lock
+pqos/pqos
+rdtset/rdtset
